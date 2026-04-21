@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "learning react js ",
+  "keywords": [
+    "react",
+    "react-native"
+  ],
+  "homepage": "https://github.com/hritikkumarpd/react#readme",
+  "bugs": {
+    "url": "https://github.com/hritikkumarpd/react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hritikkumarpd/react.git"
+  },
+  "license": "ISC",
+  "author": "Hritik",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
